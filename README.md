@@ -1,4 +1,4 @@
-# 📝 Blog Platform in Java
+# 📝 Blog Platform in Java & Simple calculator
 
 A simple **console-based blog platform** built in Java.  
 This project demonstrates basic **Object-Oriented Programming (OOP)** concepts such as **classes, objects, encapsulation, lists, and user interaction**.  
@@ -33,17 +33,47 @@ BlogPlatform/
 
 ---
 
+# Simple Calculator
+
+This is a **Simple Calculator** built using Java.  
+It supports basic arithmetic operations such as:  
+
+- Addition ➕  
+- Subtraction ➖  
+- Multiplication ✖️  
+- Division ➗  
+
+---
+
+## 🚀 Features
+- Console-based calculator.  
+- Takes two numbers as input.  
+- Lets the user choose an operation.  
+- Displays the result instantly.  
+- Handles division by zero safely.  
+
+---
+
+## 📂 Project Structure
+SimpleCalculator/
+├── SimpleCalculator.java # Main calculator program
+└── README.md # Project documentation
+
+
 ## ▶️ How to Run
 1. Clone this repository:
 
    git clone (https://github.com/MEGAVARSHINI2004/Final_Project_Java.git)
    
    cd blog-platform-java
+   cd calculator 
    
-2. Compile the program:
+3. Compile the program:
 
 javac BlogPost.java 
+javac Calculator.java
 
 3. Run the program:
 
 java BlogPlatform
+java Caluculator
