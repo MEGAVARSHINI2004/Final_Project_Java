@@ -36,7 +36,7 @@ BlogPlatform/
 ## ▶️ How to Run
 1. Clone this repository:
 
-   git clone ()
+   git clone (https://github.com/MEGAVARSHINI2004/Final_Project_Java.git)
    
    cd blog-platform-java
    
